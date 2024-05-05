@@ -1,12 +1,12 @@
-# Welcome To My Profile!
+## Welcome To My Profile!
 
-- ⭐ My name is Davi and i'm a python developer from **Brazil**.
+- ⭐ **My name is Davi and i'm a python developer from Brazil.**
 
 ## About Me
 
 - 📑 Always looking for more knowledge
 - ❤️ I Love to code and play some games in my spare time
-- 📩 Contact me at any time via discord! **username:** davihenriquedag
+- 📩 Contact me at any time via discord
 - 🧢 I'm currently 14 years old
 - 🚨 I'm not active on social networks.
  
