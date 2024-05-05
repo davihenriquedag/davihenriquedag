@@ -20,4 +20,4 @@
 ## Github Stats
 
 ![davihenriquedag GitHub stats](https://github-readme-stats.vercel.app/api?username=davihenriquedag&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davihenriquedag&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davihenriquedag&layout=compact&theme=github_dark)
