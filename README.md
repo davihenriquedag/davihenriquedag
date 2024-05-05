@@ -19,6 +19,6 @@
 
 ## Statistics, Activities And Languages
 
-![davihenriquedag GitHub Stats](https://github-readme-stats.vercel.app/api?username=davihenriquedag&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davihenriquedag&layout=compact&theme=github_dark)
-![davihenriquedag GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davihenriquedag&theme=github_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![davihenriquedag GitHub Stats](https://github-readme-stats.vercel.app/api?username=davihenriquedag&show_icons=true&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davihenriquedag&layout=compact&theme=react-dark)
+![davihenriquedag GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davihenriquedag&theme=react-dark)
