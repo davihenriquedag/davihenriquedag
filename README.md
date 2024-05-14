@@ -1,6 +1,4 @@
-## Welcome To My Profile!
-
-- ⭐ **My name is Davi and i'm a python developer from Brazil.**
+# Welcome To My Profile!
 
 ## About Me
 
